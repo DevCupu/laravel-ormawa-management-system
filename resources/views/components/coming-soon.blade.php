@@ -1,13 +1,13 @@
-<div class="w-full h-screen bg-gradient-to-br from-blue-500 via-indigo-400 to-white">
-    <div class="w-full h-screen flex flex-col items-center justify-center bg-white bg-opacity-60 backdrop-blur-sm">
-        <div class="flex flex-col items-center justify-center">
-            <h1 class="text-5xl md:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-700 via-indigo-600 to-blue-400 drop-shadow-lg text-center mb-6">
-                Coming Soon Yah :)
-            </h1>
-            <p class="text-lg md:text-2xl text-gray-700 font-medium text-center">
-                Stay tuned for something awesome!
-            </p>
+<div class="w-full h-screen"
+    style="background-image: linear-gradient(to bottom right, #0062ff, #ffffff);">
+    <div class="w-full h-screen flex flex-col items-center justify-between bg-black bg-opacity-70 py-8">
+        <div class="flex-1 flex flex-col items-center justify-center">
+            <h1
+                class="text-6xl lg:text-7xl xl:text-8xl text-gray-200 tracking-wider font-bold font-serif mt-12 text-center">
+                Coming Soon Yah :)</h1>
+
         </div>
+     
     </div>
 </div>
 <script src="https://cdn.tailwindcss.com"></script>
